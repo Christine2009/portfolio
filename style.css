@@ -15,13 +15,13 @@ body{
     
 }
 .wrapper{
-    width:120px;
+    width: 1280px;
     max-width: 95%;
-    margin:0 auto;
-    padding: 020px;
+    margin: 0 auto;
+    padding: 0 20px;
 }
 header{
-    padding:40px 030px;
+    padding: 40px 0 30px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -30,6 +30,6 @@ header{
 .logo{
     display: inline-flex;
     justify-content: center;
-    align-items: center;
-    
+    align-items:center;
+
 }
