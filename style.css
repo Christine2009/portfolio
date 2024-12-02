@@ -74,7 +74,7 @@ nav .togglebtn span{
     transition-property: transform, opacity;
 }
 nav .navlinks{
-    list-style: none;
+    list-style-type: none;
 }
 nav .navlinks li{
     display: inline-block;
